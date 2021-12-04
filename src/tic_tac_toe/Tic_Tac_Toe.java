@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rahul Grover
+ * @author Kashish Salwan
  */
 public class Tic_Tac_Toe implements ActionListener
 {
@@ -34,7 +34,7 @@ public class Tic_Tac_Toe implements ActionListener
 
     Tic_Tac_Toe()
     {
-       JFrame jf=new JFrame("TicTacToeGame by Rahul");
+       JFrame jf=new JFrame("TicTacToeGame by Kashish");
        jf.setSize(500,500);
        jf.setDefaultCloseOperation(3);
        jf.setLocationRelativeTo(null);
